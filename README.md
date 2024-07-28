@@ -9,12 +9,19 @@ Reset Functionality: Includes a reset button to clear the buzzer states.
 
 # Components
 * 5 x ESP32 38pin Development Boards
-* 4 x Push Buttons per Team
-* 1 x Reset Button
+    * https://www.aliexpress.com/item/32959541446.html?spm=a2g0o.order_list.order_list_main.79.56a61802KwvkZu 
+* 4 x Push Buttons per Team & 1 x Reset Button (17 total)
+    * https://www.aliexpress.com/item/4000097252595.html?spm=a2g0o.order_list.order_list_main.48.56a61802KwvkZu
 * 1 x I2C 16x2 LCD Display
-* 17 Push-buttons
-* 5 Perf Boards 
+    * https://www.aliexpress.com/item/1005006100081942.html?spm=a2g0o.order_list.order_list_main.53.56a61802KwvkZu
+* 5 Perf Boards
+    * https://www.aliexpress.com/item/1005005795030364.html?spm=a2g0o.order_list.order_list_main.43.56a61802KwvkZu
 * Connecting Wires
+    * Buzzer wires: https://www.aliexpress.com/item/1005005586778126.html?spm=a2g0o.productlist.main.21.1bc23Mde3MdemM&algo_pvid=e1efc8fa-0c83-4f5d-94fd-0a4cd86bc16e&algo_exp_id=e1efc8fa-0c83-4f5d-94fd-0a4cd86bc16e-10&pdp_npi=4%40dis%21CAD%2138.18%2119.09%21%21%2127.02%2113.51%21%402103146c17221906930751028efd68%2112000033654655429%21sea%21CA%214143424543%21X&curPageLogUid=2Y4tKg5bDQtm&utparam-url=scene%3Asearch%7Cquery_from%3A
+* Pin Sockets
+    * https://www.aliexpress.com/item/1005005007385963.html?spm=a2g0o.order_list.order_list_main.73.56a61802KwvkZu
+* 5 x Micro USB Data Cables
+    * https://www.aliexpress.com/gcp/300000512/nnmixupdatev3?spm=a2g0o.productlist.main.15.3912WuUeWuUeYa&productIds=1005005758280774&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&channelLinkTag=nn_newgcp&sourceName=mainSearchProduct&utparam-url=scene%3Asearch%7Cquery_from%3A 
 * Wiring Diagram (included in the repo) 
 
 # Installation
