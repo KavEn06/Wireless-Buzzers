@@ -8,7 +8,7 @@ Low Latency: Achieves a latency response time of ~2 milliseconds.
 Reset Functionality: Includes a reset button to clear the buzzer states.
 
 # Components
-* 5 x ESP32 Development Boards
+* 5 x ESP32 38pin Development Boards
 * 4 x Push Buttons per Team
 * 1 x Reset Button
 * 1 x I2C 16x2 LCD Display
