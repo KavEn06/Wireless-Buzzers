@@ -12,6 +12,8 @@ Reset Functionality: Includes a reset button to clear the buzzer states.
 * 4 x Push Buttons per Team
 * 1 x Reset Button
 * 1 x I2C 16x2 LCD Display
+* 17 Push-buttons
+* 5 Perf Boards 
 * Connecting Wires
 * Wiring Diagram (included in the repo) 
 
