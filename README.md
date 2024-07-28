@@ -26,10 +26,15 @@ Reset Functionality: Includes a reset button to clear the buzzer states.
 
 # Installation
 ## Install the Required Libraries:
-1. ESP-NOW: Available through the Arduino Library Manager.
-2. WiFi: Included with the ESP32 core for Arduino.
-3. LiquidCrystal_PCF8574: Available through the Arduino Library Manager.
-4. Upload the Code to the ESP32 Boards:
+1. Clone the repository:
+```
+git clone https://github.com/yourusername/wireless-buzzer-system.git
+```
+2. Open the project in Arduino IDE or PlatformIO.
+3. ESP-NOW: Available through the Arduino Library Manager.
+4. WiFi: Included with the ESP32 core for Arduino.
+5. LiquidCrystal_PCF8574: Available through the Arduino Library Manager.
+6. Upload the Code to the ESP32 Boards:
     - Use the Arduino IDE to upload the Main.ino code to the main ESP32 board.
     - Ensure the correct board and port are selected in the Arduino IDE.
 
