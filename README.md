@@ -28,7 +28,7 @@ Reset Functionality: Includes a reset button to clear the buzzer states.
 ## Install the Required Libraries:
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/wireless-buzzer-system.git
+git clone https://github.com/KavEn06/Wireless-Buzzers
 ```
 2. Open the project in Arduino IDE or PlatformIO.
 3. ESP-NOW: Available through the Arduino Library Manager.
@@ -54,4 +54,4 @@ Feel free to contribute to this project by opening issues or submitting pull req
 * PCB gerber files to make production easier
 
 # License
-Yuh student fr
+This project is licensed under the MIT License
