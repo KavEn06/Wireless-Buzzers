@@ -48,10 +48,13 @@ git clone https://github.com/KavEn06/Wireless-Buzzers
 Feel free to contribute to this project by opening issues or submitting pull requests.
 
 # Upcoming 
-* Python software that can be run on a computer, which controls the buzzers and displays the buttons pressed
-    * Useful for projecting the buttons pressed to everyone participating
-    * Allows for additional features to be implemented that the ESP32s can't do  
-* PCB gerber files to make production easier
+* **Python Software for Buzzer Control and Display**
+
+   A Python software application is being developed to run on a computer, allowing control of the wireless buzzers and displaying the buttons pressed. This software will be useful for projecting the button presses to everyone participating,  enhancing the experience during events. Additionally, it will allow for the implementation of features that the ESP32 microcontrollers alone cannot support, such as detailed score tracking, timing, and more advanced user interfaces.
+
+* **PCB Gerber Files**
+
+   To streamline production and ensure consistency, PCB Gerber files will be provided. These files will make it easier to manufacture the custom circuit boards required for the buzzers, allowing for a more compact and reliable hardware solution. This step will not only facilitate wider adoption but also improve the durability and performance of the buzzers.
 
 # License
 This project is licensed under the MIT License
